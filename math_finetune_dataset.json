@@ -1,0 +1,326 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Solve for $x$: $(-\\frac{1}{3})(-4 -3x)=\\frac{1}{2}$\n\nA) \\frac{7}{6}\nB) -\\frac{5}{6}\nC) \\frac{5}{3}\nD) \\frac{1}{6}"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Compute the product in the given ring. (20)(-8) in Z_26\n\nA) 11\nB) 22\nC) 1\nD) 0"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Given that the sample has a standard deviation of zero, which of the following is a true statement?\n\nA) The sample mean and sample median are equal.\nB) The standard deviation of the population is also zero.\nC) The population has a symmetric distribution.\nD) The sample may have outliers."
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Bob rolls a fair six-sided die each morning. If Bob rolls a composite number, he eats sweetened cereal. If he rolls a prime number, he eats unsweetened cereal. If he rolls a 1, then he rolls again. In a non-leap year, what is the expected number of times Bob will roll his die?\n\nA) \\frac{5}{8}\nB) 438\nC) \\frac{1825}{4}\nD) \\frac{5}{4}"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: A study is made to determine whether more hours of academic studying leads to higher point scoring by basketball players. In surveying 50 basketball players, it is noted that the 25 who claim to study the most hours have a higher point average than the 25 who study less. Based on this study, the coach begins requiring the players to spend more time studying. Which of the following is a correct statement?\n\nA) There could well be a confounding variable responsible for the seeming relationship.\nB) While this study may have its faults, it still does prove causation.\nC) To get the athletes to study more, it would be more meaningful to have them put in more practice time on the court to boost their point averages, as higher point averages seem to be associated with more study time.\nD) While this is a controlled experiment, the conclusion of the coach is not justified."
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: The area bounded by the parabola y = x^2 and the lines y = 1 and y = 9 equals\n\nA) 84/3\nB) 104/3\nC) 8\nD) 64\\sqrt{2}/3"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true statement?\n\nA) Dice actually do have memories, and thus the number that comes up on the next toss will be influenced by the previous tosses.\nB) By the law of large numbers, the next toss is more likely to be an odd number than another even number.\nC) Based on the properties of conditional probability the next toss is more likely to be an even number given that three in a row have been even.\nD) The probability that the next toss will again be even is 0.5."
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: D"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: The set of all real numbers under the usual multiplication operation is not a group since\n\nA) identity element does not exist\nB) multiplication is not a binary operation\nC) zero has no inverse\nD) multiplication is not associative"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: If I roll 5 standard 6-sided dice and multiply the number on the face of each die, what is the probability that the result is a composite number?\n\nA) \\frac{485}{486}\nB) \\frac{2}{7776}\nC) \\frac{16}{7776}\nD) \\frac{4}{7776}"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: The shape of the sign outside Bob's Burger Barn is a regular octagon. How many degrees are in the measure of an interior angle of this sign?\n\nA) 180\nB) 135\nC) 45\nD) 90"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Suppose that $f(x)$ is a polynomial that has degree $6$ and $g(x)$ is a polynomial that has degree $3$. If $h(x)$ is also a polynomial such that $f(g(x)) + g(h(x)) + h(f(x))$ is a polynomial of degree $36$, then what is the degree of the polynomial $h$?\n\nA) 12\nB) 72\nC) 6\nD) 18"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: How many numbers are in the list $ -36, -29, -22, \\ldots, 41, 48?$\n\nA) 13\nB) 11\nC) 12\nD) 10"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: The least common multiple of two integers is 240, and the greatest common divisor is 24. Given that one of the integers is 48, what is the other integer?\n\nA) 120\nB) 12\nC) 1\nD) 20"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Mr. Bee's statistics class had a standard deviation of 11.2 on a standardized test, while Mr. Em's class had a standard deviation of 5.6 on the same test. Which of the following is the most reasonable conclusion concerning the two classes' performance on the test?\n\nA) Mr. Bee's class performed twice as well as Mr. Em's.\nB) Mr. Bee's class is less heterogeneous than Mr. Em's.\nC) Mr. Em's class is more homogeneous than Mr. Bee's.\nD) Mr. Em's class did not do as well as Mr. Bee's."
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: In the correlation coefficient r = 0.78, what percentage of variation in y is explained by the linear regression model?\n\nA) 44%\nB) 61%\nC) 39%\nD) 22%"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: What is a sampling distribution?\n\nA) A histogram, or other such visual representation, showing the distribution of a sample\nB) A distribution of all the statistics that can be found in a given sample\nC) A distribution of all the values taken by a statistic from all possible samples of a given size\nD) A normal distribution of some statistic"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Suppose that the graph of a certain function, $y=f(x)$, has the property that if it is shifted $20$ units to the right, then the resulting graph is identical to the original graph of $y=f(x)$. What is the smallest positive $a$ such that if the graph of $y=f\\left(\\frac x5\\right)$ is shifted $a$ units to the right, then we know that the resulting graph is identical to the original graph of $y=f\\left(\\frac x5\\right)$?\n\nA) 5\nB) 100\nC) 4\nD) 20"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?\n\nA) 20\nB) 10\nC) 45\nD) 25"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds. If four players are to be selected at random, the expected value of the random variable W, the total combined weight of the four players, is 992 pounds. The standard deviation of Wis approximately\n\nA) 94 pounds\nB) 67 pounds\nC) 47 pounds\nD) 141 pounds"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: A number $x$ equals $2^{15}\\cdot3^6$. What number's cube equals $x$?\n\nA) 288\nB) 27\nC) 125\nD) 121"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true statement?\n\nA) Eight percent of those who took the test scored between Pam and Mary.\nB) Thirty-six people scored higher than both Mary and Pam.\nC) Mary's score is 8% higher than Pam's.\nD) Mary scored eight more points than Pam."
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: An equilateral triangle has sides of 12 inches. What is the approximate area of the triangle?\n\nA) 62\nB) 72\nC) 112\nD) 84"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the first 30 bearings produced are pulled and measured. If their mean diameter is under 1.23 centimeters or over 1.27 centimeters, the machinery is stopped and an engineer is called to make adjustments before production is resumed. The quality control procedure may be viewed as a hypothesis test with the null hypothesis H0: μ = 1.25 and the alternative hypothesis Ha: μ ≠ 1.25. The engineer is asked to make adjustments when the null hypothesis is rejected. In test terminology, what would a Type II error result in?\n\nA) A warranted halt in production to adjust the machinery\nB) Continued production of wrong size ball bearings\nC) Continued production of proper size ball bearings\nD) An unnecessary stoppage of the production process"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: B"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Let F be a constant unit force that is parallel to the vector (-1, 0, 1) in xyz-space. What is the work done by F on a particle that moves along the path given by (t, t^2, t^3) between time t=0 and time t=1?\n\nA) 0\nB) sqrt(2)\nC) -1/4\nD) -1/(4sqrt(2))"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: A"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Statement 1| Every group of order p^2 where p is prime is Abelian. Statement 2 | For a fixed prime p a Sylow p-subgroup of a group G is a normal subgroup of G if and only if it is the only Sylow p-subgroup of G.\n\nA) False, True\nB) False, False\nC) True, True\nD) True, False"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: C"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: What is the probability that a randomly selected integer in the set $$\\{1,2,3,\\ldots,100\\}$$ is divisible by 2 and not divisible by 3? Express your answer as a common fraction.\n\nA) \\frac{31}{66}\nB) \\frac{17}{31}\nC) \\frac{17}{66}\nD) \\frac{17}{50}"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: D"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Answer this multiple-choice math question.\nThink step by step, then end with: Answer: X (X = A, B, C or D)\n\nQuestion: Find the remainder when 25^1059 is divided by 23.\n\nA) 5\nB) 13\nC) 11\nD) 8"
+      },
+      {
+        "role": "assistant",
+        "content": "Answer: D"
+      }
+    ]
+  }
+]

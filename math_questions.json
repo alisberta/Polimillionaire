@@ -1,0 +1,566 @@
+[
+  {
+    "question": "Solve for $x$: $(-\\frac{1}{3})(-4 -3x)=\\frac{1}{2}$",
+    "options": {
+      "A": "\\frac{7}{6}",
+      "B": "-\\frac{5}{6}",
+      "C": "\\frac{5}{3}",
+      "D": "\\frac{1}{6}"
+    },
+    "correct_label": "B",
+    "correct_text": "-\\frac{5}{6}",
+    "level": 0
+  },
+  {
+    "question": "Compute the product in the given ring. (20)(-8) in Z_26",
+    "options": {
+      "A": "11",
+      "B": "22",
+      "C": "1",
+      "D": "0"
+    },
+    "correct_label": "B",
+    "correct_text": "22",
+    "level": 0
+  },
+  {
+    "question": "Given that the sample has a standard deviation of zero, which of the following is a true statement?",
+    "options": {
+      "A": "The sample mean and sample median are equal.",
+      "B": "The standard deviation of the population is also zero.",
+      "C": "The population has a symmetric distribution.",
+      "D": "The sample may have outliers."
+    },
+    "correct_label": "A",
+    "correct_text": "The sample mean and sample median are equal.",
+    "level": 0
+  },
+  {
+    "question": "Bob rolls a fair six-sided die each morning. If Bob rolls a composite number, he eats sweetened cereal. If he rolls a prime number, he eats unsweetened cereal. If he rolls a 1, then he rolls again. In a non-leap year, what is the expected number of times Bob will roll his die?",
+    "options": {
+      "A": "\\frac{5}{8}",
+      "B": "438",
+      "C": "\\frac{1825}{4}",
+      "D": "\\frac{5}{4}"
+    },
+    "correct_label": "B",
+    "correct_text": "438",
+    "level": 0
+  },
+  {
+    "question": "A study is made to determine whether more hours of academic studying leads to higher point scoring by basketball players. In surveying 50 basketball players, it is noted that the 25 who claim to study the most hours have a higher point average than the 25 who study less. Based on this study, the coach begins requiring the players to spend more time studying. Which of the following is a correct statement?",
+    "options": {
+      "A": "There could well be a confounding variable responsible for the seeming relationship.",
+      "B": "While this study may have its faults, it still does prove causation.",
+      "C": "To get the athletes to study more, it would be more meaningful to have them put in more practice time on the court to boost their point averages, as higher point averages seem to be associated with more study time.",
+      "D": "While this is a controlled experiment, the conclusion of the coach is not justified."
+    },
+    "correct_label": "A",
+    "correct_text": "There could well be a confounding variable responsible for the seeming relationship.",
+    "level": 0
+  },
+  {
+    "question": "The area bounded by the parabola y = x^2 and the lines y = 1 and y = 9 equals",
+    "options": {
+      "A": "84/3",
+      "B": "104/3",
+      "C": "8",
+      "D": "64\\sqrt{2}/3"
+    },
+    "correct_label": "B",
+    "correct_text": "104/3",
+    "level": 0
+  },
+  {
+    "question": "Suppose you toss a fair die three times and it comes up an even number each time. Which of the following is a true statement?",
+    "options": {
+      "A": "Dice actually do have memories, and thus the number that comes up on the next toss will be influenced by the previous tosses.",
+      "B": "By the law of large numbers, the next toss is more likely to be an odd number than another even number.",
+      "C": "Based on the properties of conditional probability the next toss is more likely to be an even number given that three in a row have been even.",
+      "D": "The probability that the next toss will again be even is 0.5."
+    },
+    "correct_label": "D",
+    "correct_text": "The probability that the next toss will again be even is 0.5.",
+    "level": 0
+  },
+  {
+    "question": "The set of all real numbers under the usual multiplication operation is not a group since",
+    "options": {
+      "A": "identity element does not exist",
+      "B": "multiplication is not a binary operation",
+      "C": "zero has no inverse",
+      "D": "multiplication is not associative"
+    },
+    "correct_label": "C",
+    "correct_text": "zero has no inverse",
+    "level": 0
+  },
+  {
+    "question": "If I roll 5 standard 6-sided dice and multiply the number on the face of each die, what is the probability that the result is a composite number?",
+    "options": {
+      "A": "\\frac{485}{486}",
+      "B": "\\frac{2}{7776}",
+      "C": "\\frac{16}{7776}",
+      "D": "\\frac{4}{7776}"
+    },
+    "correct_label": "A",
+    "correct_text": "\\frac{485}{486}",
+    "level": 0
+  },
+  {
+    "question": "The shape of the sign outside Bob's Burger Barn is a regular octagon. How many degrees are in the measure of an interior angle of this sign?",
+    "options": {
+      "A": "180",
+      "B": "135",
+      "C": "45",
+      "D": "90"
+    },
+    "correct_label": "B",
+    "correct_text": "135",
+    "level": 0
+  },
+  {
+    "question": "Suppose that $f(x)$ is a polynomial that has degree $6$ and $g(x)$ is a polynomial that has degree $3$. If $h(x)$ is also a polynomial such that $f(g(x)) + g(h(x)) + h(f(x))$ is a polynomial of degree $36$, then what is the degree of the polynomial $h$?",
+    "options": {
+      "A": "12",
+      "B": "72",
+      "C": "6",
+      "D": "18"
+    },
+    "correct_label": "C",
+    "correct_text": "6",
+    "level": 0
+  },
+  {
+    "question": "How many numbers are in the list $ -36, -29, -22, \\ldots, 41, 48?$",
+    "options": {
+      "A": "13",
+      "B": "11",
+      "C": "12",
+      "D": "10"
+    },
+    "correct_label": "A",
+    "correct_text": "13",
+    "level": 0
+  },
+  {
+    "question": "The least common multiple of two integers is 240, and the greatest common divisor is 24. Given that one of the integers is 48, what is the other integer?",
+    "options": {
+      "A": "120",
+      "B": "12",
+      "C": "1",
+      "D": "20"
+    },
+    "correct_label": "A",
+    "correct_text": "120",
+    "level": 0
+  },
+  {
+    "question": "Mr. Bee's statistics class had a standard deviation of 11.2 on a standardized test, while Mr. Em's class had a standard deviation of 5.6 on the same test. Which of the following is the most reasonable conclusion concerning the two classes' performance on the test?",
+    "options": {
+      "A": "Mr. Bee's class performed twice as well as Mr. Em's.",
+      "B": "Mr. Bee's class is less heterogeneous than Mr. Em's.",
+      "C": "Mr. Em's class is more homogeneous than Mr. Bee's.",
+      "D": "Mr. Em's class did not do as well as Mr. Bee's."
+    },
+    "correct_label": "C",
+    "correct_text": "Mr. Em's class is more homogeneous than Mr. Bee's.",
+    "level": 0
+  },
+  {
+    "question": "In the correlation coefficient r = 0.78, what percentage of variation in y is explained by the linear regression model?",
+    "options": {
+      "A": "44%",
+      "B": "61%",
+      "C": "39%",
+      "D": "22%"
+    },
+    "correct_label": "B",
+    "correct_text": "61%",
+    "level": 0
+  },
+  {
+    "question": "What is a sampling distribution?",
+    "options": {
+      "A": "A histogram, or other such visual representation, showing the distribution of a sample",
+      "B": "A distribution of all the statistics that can be found in a given sample",
+      "C": "A distribution of all the values taken by a statistic from all possible samples of a given size",
+      "D": "A normal distribution of some statistic"
+    },
+    "correct_label": "C",
+    "correct_text": "A distribution of all the values taken by a statistic from all possible samples of a given size",
+    "level": 0
+  },
+  {
+    "question": "Suppose that the graph of a certain function, $y=f(x)$, has the property that if it is shifted $20$ units to the right, then the resulting graph is identical to the original graph of $y=f(x)$. What is the smallest positive $a$ such that if the graph of $y=f\\left(\\frac x5\\right)$ is shifted $a$ units to the right, then we know that the resulting graph is identical to the original graph of $y=f\\left(\\frac x5\\right)$?",
+    "options": {
+      "A": "5",
+      "B": "100",
+      "C": "4",
+      "D": "20"
+    },
+    "correct_label": "B",
+    "correct_text": "100",
+    "level": 0
+  },
+  {
+    "question": "A discrete graph is complete if there is an edge connecting any pair of vertices. How many edges does a complete graph with 10 vertices have?",
+    "options": {
+      "A": "20",
+      "B": "10",
+      "C": "45",
+      "D": "25"
+    },
+    "correct_label": "C",
+    "correct_text": "45",
+    "level": 0
+  },
+  {
+    "question": "Players in the National Football League weigh, on average, about 248 pounds with a standard deviation of about 47 pounds. If four players are to be selected at random, the expected value of the random variable W, the total combined weight of the four players, is 992 pounds. The standard deviation of Wis approximately",
+    "options": {
+      "A": "94 pounds",
+      "B": "67 pounds",
+      "C": "47 pounds",
+      "D": "141 pounds"
+    },
+    "correct_label": "A",
+    "correct_text": "94 pounds",
+    "level": 0
+  },
+  {
+    "question": "A number $x$ equals $2^{15}\\cdot3^6$. What number's cube equals $x$?",
+    "options": {
+      "A": "288",
+      "B": "27",
+      "C": "125",
+      "D": "121"
+    },
+    "correct_label": "A",
+    "correct_text": "288",
+    "level": 0
+  },
+  {
+    "question": "On the same test, Mary and Pam scored at the 64th and 56th percentiles, respectively. Which of the following is a true statement?",
+    "options": {
+      "A": "Eight percent of those who took the test scored between Pam and Mary.",
+      "B": "Thirty-six people scored higher than both Mary and Pam.",
+      "C": "Mary's score is 8% higher than Pam's.",
+      "D": "Mary scored eight more points than Pam."
+    },
+    "correct_label": "A",
+    "correct_text": "Eight percent of those who took the test scored between Pam and Mary.",
+    "level": 0
+  },
+  {
+    "question": "An equilateral triangle has sides of 12 inches. What is the approximate area of the triangle?",
+    "options": {
+      "A": "62",
+      "B": "72",
+      "C": "112",
+      "D": "84"
+    },
+    "correct_label": "A",
+    "correct_text": "62",
+    "level": 0
+  },
+  {
+    "question": "An assembly line machine is supposed to turn out ball bearings with a diameter of 1.25 centimeters. Each morning the first 30 bearings produced are pulled and measured. If their mean diameter is under 1.23 centimeters or over 1.27 centimeters, the machinery is stopped and an engineer is called to make adjustments before production is resumed. The quality control procedure may be viewed as a hypothesis test with the null hypothesis H0: μ = 1.25 and the alternative hypothesis Ha: μ ≠ 1.25. The engineer is asked to make adjustments when the null hypothesis is rejected. In test terminology, what would a Type II error result in?",
+    "options": {
+      "A": "A warranted halt in production to adjust the machinery",
+      "B": "Continued production of wrong size ball bearings",
+      "C": "Continued production of proper size ball bearings",
+      "D": "An unnecessary stoppage of the production process"
+    },
+    "correct_label": "B",
+    "correct_text": "Continued production of wrong size ball bearings",
+    "level": 0
+  },
+  {
+    "question": "Let F be a constant unit force that is parallel to the vector (-1, 0, 1) in xyz-space. What is the work done by F on a particle that moves along the path given by (t, t^2, t^3) between time t=0 and time t=1?",
+    "options": {
+      "A": "0",
+      "B": "sqrt(2)",
+      "C": "-1/4",
+      "D": "-1/(4sqrt(2))"
+    },
+    "correct_label": "A",
+    "correct_text": "0",
+    "level": 0
+  },
+  {
+    "question": "Statement 1| Every group of order p^2 where p is prime is Abelian. Statement 2 | For a fixed prime p a Sylow p-subgroup of a group G is a normal subgroup of G if and only if it is the only Sylow p-subgroup of G.",
+    "options": {
+      "A": "False, True",
+      "B": "False, False",
+      "C": "True, True",
+      "D": "True, False"
+    },
+    "correct_label": "C",
+    "correct_text": "True, True",
+    "level": 0
+  },
+  {
+    "question": "What is the probability that a randomly selected integer in the set $$\\{1,2,3,\\ldots,100\\}$$ is divisible by 2 and not divisible by 3? Express your answer as a common fraction.",
+    "options": {
+      "A": "\\frac{31}{66}",
+      "B": "\\frac{17}{31}",
+      "C": "\\frac{17}{66}",
+      "D": "\\frac{17}{50}"
+    },
+    "correct_label": "D",
+    "correct_text": "\\frac{17}{50}",
+    "level": 0
+  },
+  {
+    "question": "Find the remainder when 25^1059 is divided by 23.",
+    "options": {
+      "A": "5",
+      "B": "13",
+      "C": "11",
+      "D": "8"
+    },
+    "correct_label": "D",
+    "correct_text": "8",
+    "level": 0
+  },
+  {
+    "question": "John has 12 marbles of different colors, including one red, one green, and one blue marble. In how many ways can he choose 4 marbles, if exactly one of the chosen marbles is red, green, or blue?",
+    "options": {
+      "A": "276",
+      "B": "441",
+      "C": "84",
+      "D": "252"
+    },
+    "correct_label": "D",
+    "correct_text": "252",
+    "level": 0
+  },
+  {
+    "question": "Suppose X is a discrete random variable on the set of positive integers such that for each positive integer n, the probability that X = n is 1/2^n. If Y is a random variable with the same probability distribution and X and Y are independent, what is the probability that the value of at least one of the variables X and Y is greater than 3 ?",
+    "options": {
+      "A": "3/8",
+      "B": "1/4",
+      "C": "1/64",
+      "D": "15/64"
+    },
+    "correct_label": "D",
+    "correct_text": "15/64",
+    "level": 0
+  },
+  {
+    "question": "Mr. Cleary’s class and Ms. Ntuala’s class go to use the computer lab. There are 20 computers available, two of which do not work. Mr. Cleary’s class has 14 kids, and Ms. Ntuala’s class has 12 kids. If every student must use a computer and there can only be 2 students on a computer at most, what is the maximum number of students who can have a computer to themselves?",
+    "options": {
+      "A": "14",
+      "B": "10",
+      "C": "2",
+      "D": "6"
+    },
+    "correct_label": "B",
+    "correct_text": "10",
+    "level": 0
+  },
+  {
+    "question": "The waiting times for a new roller coaster ride are normally distributed with a mean of 35 minutes and a standard deviation of 10 minutes. If there are 150,000 riders the first summer, which of the following is the shortest time interval associated with 100,000 riders?",
+    "options": {
+      "A": "25.3 to 35 minutes",
+      "B": "31.7 to 39.3 minutes",
+      "C": "25.3 to 44.7 minutes",
+      "D": "0 to 31.7 minutes"
+    },
+    "correct_label": "C",
+    "correct_text": "25.3 to 44.7 minutes",
+    "level": 0
+  },
+  {
+    "question": "Find the product of the given polynomials in the given polynomial ring. f(x) = 4x - 5, g(x) = 2x^2 - 4x + 2 in Z_8[x].",
+    "options": {
+      "A": "0",
+      "B": "x^2 + 1",
+      "C": "6x^2 + 4x + 6",
+      "D": "2x^2 + 5"
+    },
+    "correct_label": "C",
+    "correct_text": "6x^2 + 4x + 6",
+    "level": 0
+  },
+  {
+    "question": "Find the degree for the given field extension Q(sqrt(2) + sqrt(3)) over Q.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "0",
+      "D": "6"
+    },
+    "correct_label": "B",
+    "correct_text": "4",
+    "level": 0
+  },
+  {
+    "question": "A company with offices in five different countries is interested in estimating the proportion of its employees in favor of banning smoking on the office premises. It is known that the views of people from different countries on issues like smoking tend to vary due to the influence of different local social structures. Which of the following is an appropriate sampling technique to use in this situation, and why?",
+    "options": {
+      "A": "Simple random sample, because this is the simplest sampling method",
+      "B": "Stratified sample, because the population is divided into five strata—namely, five offices in five different countries",
+      "C": "Cluster sample, because the population is divided into five clusters—namely, five offices in five different countries",
+      "D": "Simple random sample, because this is the only method that gives unbiased results"
+    },
+    "correct_label": "B",
+    "correct_text": "Stratified sample, because the population is divided into five strata—namely, five offices in five different countries",
+    "level": 0
+  },
+  {
+    "question": "What is the product of the greatest even prime number and the least odd prime number?",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "14"
+    },
+    "correct_label": "A",
+    "correct_text": "6",
+    "level": 0
+  },
+  {
+    "question": "A study was conducted to test a new style of keyboard in preventing repetitive stress disorders. Volunteers who have had problems with such injuries were randomly assigned to use either a traditional keyboard or the new design. A significance test was conducted with the alternative hypothesis that a smaller proportion of those using the new keyboard will suffer injuries than those using the traditional keyboard. The resulting P-value was 0.07. Which is a correct interpretation of this P-value?",
+    "options": {
+      "A": "The null hypothesis should be rejected.",
+      "B": "The null hypothesis should be accepted.",
+      "C": "There is a 7% chance that the null hypothesis is correct.",
+      "D": "There is a 7% chance of getting a difference between the two groups at least as large as the observed difference if the new keyboard is really no better at preventing injuries."
+    },
+    "correct_label": "D",
+    "correct_text": "There is a 7% chance of getting a difference between the two groups at least as large as the observed difference if the new keyboard is really no better at preventing injuries.",
+    "level": 0
+  },
+  {
+    "question": "After a frost warning was issued, the owner of a large orange grove asked his workers to spray all his trees with water. The water was supposed to freeze and form a protective covering of ice around the orange blossom. Nevertheless, the owner suspected that some trees suffered considerable damage due to the frost. To estimate the proportion of trees that suffered more than 50 percent damage due to the frost, he took a random sample of 100 trees from his grove. What is the response variable in this experiment?",
+    "options": {
+      "A": "For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",
+      "B": "The number of trees affected by the frost.",
+      "C": "The proportion of trees that suffered more than 50 percent damage due to frost.",
+      "D": "The number of trees sampled from the grove."
+    },
+    "correct_label": "A",
+    "correct_text": "For each sampled tree, whether it suffered more than 50 percent damage or at most 50 percent damage.",
+    "level": 0
+  },
+  {
+    "question": "Which of the following is a true statement?",
+    "options": {
+      "A": "None of the above is a true statement.",
+      "B": "In a well-designed, well-conducted sample survey, sampling error is effectively eliminated.",
+      "C": "In a well-designed experiment, the treatments are carefully planned to result in responses that are as similar as possible.",
+      "D": "In a well-designed observational study, responses are influenced through an orderly, carefully planned procedure during the collection of data."
+    },
+    "correct_label": "A",
+    "correct_text": "None of the above is a true statement.",
+    "level": 0
+  },
+  {
+    "question": "Which of the following is not true with regard to contingency tables for chi-square tests for independence?",
+    "options": {
+      "A": "Observed frequencies should be whole numbers.",
+      "B": "The categories are not numerical for either variable.",
+      "C": "Expected frequencies in each cell should be at least 5, and to achieve this, one sometimes combines categories for one or the other or both of the variables.",
+      "D": "Expected frequencies should be whole numbers."
+    },
+    "correct_label": "D",
+    "correct_text": "Expected frequencies should be whole numbers.",
+    "level": 0
+  },
+  {
+    "question": "A drug company will conduct a randomized controlled study on the effectiveness of a new heart disease medication called Heartaid. Heartaid is more expensive than the currently used medication. The analysis will include a significance test with H0: Heartaid and the current medication are equally effective at preventing heart disease and HA: Heartaid is more effective than the current medication at preventing heart disease. Which of these would be a potential consequence of a Type II error?",
+    "options": {
+      "A": "Doctors will begin to prescribe Heartaid to patients, even though it is actually not any more effective than the current medication.",
+      "B": "Patients will continue to use the current medication, even though Heartaid is actually more effective.",
+      "C": "Patients will spend more money on Heartaid, even though it is actually not any more effective than the current medication.",
+      "D": "Researchers will calculate the wrong P-value, making their advice to doctors invalid."
+    },
+    "correct_label": "B",
+    "correct_text": "Patients will continue to use the current medication, even though Heartaid is actually more effective.",
+    "level": 0
+  },
+  {
+    "question": "Two events A and B each have a nonzero probability. If A and B are independent, which of the following statements is true?",
+    "options": {
+      "A": "P(A and B) = P(A) · P(B)",
+      "B": "A and B may or may not be mutually exclusive.",
+      "C": "A and B must be mutually exclusive.",
+      "D": "P(A| B) = P(B| A)"
+    },
+    "correct_label": "A",
+    "correct_text": "P(A and B) = P(A) · P(B)",
+    "level": 0
+  },
+  {
+    "question": "A tree is a connected graph with no cycles. How many nonisomorphic trees with 5 vertices exist?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "1",
+      "D": "4"
+    },
+    "correct_label": "B",
+    "correct_text": "3",
+    "level": 0
+  },
+  {
+    "question": "Two possible wordings for a questionnaire on a proposed school budget increase are as follows:",
+    "options": {
+      "A": "The first showed 58% and the second 13% because of response bias due to the wording of the questions.",
+      "B": "The first showed 58% and the second 13% because of the lack of randomization as evidenced by the wording of the questions.",
+      "C": "The first showed 13% and the second 58% because of a placebo effect due to the wording of the questions.",
+      "D": "The first showed 58% and the second 13% because of the lack of a control group."
+    },
+    "correct_label": "A",
+    "correct_text": "The first showed 58% and the second 13% because of response bias due to the wording of the questions.",
+    "level": 0
+  },
+  {
+    "question": "Suppose 5 different integers are randomly chosen from between 20 and 69, inclusive. What is the probability that they each have a different tens digit?",
+    "options": {
+      "A": "\\frac{1000}{52969}",
+      "B": "\\frac{1}{4}",
+      "C": "\\frac{1}{3}",
+      "D": "\\frac{2500}{52969}"
+    },
+    "correct_label": "D",
+    "correct_text": "\\frac{2500}{52969}",
+    "level": 0
+  },
+  {
+    "question": "Alfred and Ben don't know each other but are each considering asking the lovely Charlene to the school prom. The probability that at least one of them will ask her is 0.72. The probability that they both ask her is 0.18. The probability that Alfred asks her is 0.6. What is the probability that Ben asks Charlene to the prom?",
+    "options": {
+      "A": "0.24",
+      "B": "0.78",
+      "C": "0.48",
+      "D": "0.3"
+    },
+    "correct_label": "D",
+    "correct_text": "0.3",
+    "level": 0
+  },
+  {
+    "question": "The distribution of weights of 16-ounce bags of a particular brand of potato chips is approximately normal with a standard deviation of 0.28 ounce. How does the weight of a bag at the 40th percentile compare with the mean weight?",
+    "options": {
+      "A": "0.07 ounce below the mean",
+      "B": "0.40 ounce above the mean",
+      "C": "0.07 ounce above the mean",
+      "D": "0.25 ounce above the mean"
+    },
+    "correct_label": "A",
+    "correct_text": "0.07 ounce below the mean",
+    "level": 0
+  },
+  {
+    "question": "The relation between the selling price of a car (in $1,000) and its age (in years) is estimated from a random sample of cars of a specific model. The relation is given by the following formula: Selling price = 15.9 – 0.983 (age) Which of the following can we conclude from this equation?",
+    "options": {
+      "A": "For every year the car gets older, the selling price drops by approximately $1,590.",
+      "B": "For every year the car gets older, the selling price goes down by approximately 9.83 percent.",
+      "C": "For every year the car gets older, the selling price drops by approximately $983.",
+      "D": "A new car costs on the average $9,830."
+    },
+    "correct_label": "C",
+    "correct_text": "For every year the car gets older, the selling price drops by approximately $983.",
+    "level": 0
+  }
+]

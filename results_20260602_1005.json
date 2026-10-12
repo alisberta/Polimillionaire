@@ -1,0 +1,187 @@
+{
+  "timestamp": "20260602_1005",
+  "results": {
+    "zero-shot": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 28,
+          "accuracy": 0.5957,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 0.335
+        }
+      ]
+    },
+    "cot-fixed": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 33,
+          "accuracy": 0.7021,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 3.196
+        }
+      ]
+    },
+    "semantic-few-shot": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 26,
+          "accuracy": 0.5532,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 0.806
+        }
+      ]
+    },
+    "hybrid-math-v1-classifier": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 30,
+          "accuracy": 0.6383,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 7.768
+        }
+      ]
+    },
+    "hybrid-math-llama": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 39,
+          "accuracy": 0.8298,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 29.687
+        }
+      ]
+    },
+    "hybrid-math-qwen": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 38,
+          "accuracy": 0.8085,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 91.124
+        }
+      ]
+    },
+    "deepseek-7b": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 35,
+          "accuracy": 0.7447,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 383.656
+        }
+      ]
+    },
+    "deepseek-1.5b": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 24,
+          "accuracy": 0.5106,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 6.723
+        }
+      ]
+    },
+    "hybrid-math-deepseek-v2": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 28,
+          "accuracy": 0.5957,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 9.96
+        }
+      ]
+    },
+    "prompt-baseline": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 28,
+          "accuracy": 0.5957,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 5.832
+        }
+      ]
+    },
+    "model-qwen2.5:7b": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 33,
+          "accuracy": 0.7021,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 0.678
+        }
+      ]
+    },
+    "ensemble": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 32,
+          "accuracy": 0.6809,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 11.108
+        }
+      ]
+    },
+    "finetuned-qwen": {
+      "Maths": [
+        {
+          "game": 1,
+          "label": "All (47 q)",
+          "correct": 37,
+          "accuracy": 0.7872,
+          "n": 47,
+          "earned": 0,
+          "reached_level": 0,
+          "response_time_avg": 1.211
+        }
+      ]
+    }
+  }
+}
