@@ -1,0 +1,2 @@
+requests # HTTP library for making requests to the Millionaire API
+python-dotenv # Library for loading environment variables from a .env file

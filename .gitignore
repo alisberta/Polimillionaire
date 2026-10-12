@@ -1,0 +1,62 @@
+# Virtual environment
+.venv/
+venv/
+env/
+.env
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & models (large files)
+*.csv
+*.tsv
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.bin
+*.h5
+*.hdf5
+*.npy
+*.npz
+data/
+datasets/
+models/
+checkpoints/
+outputs/
+
+# Logs
+*.log
+logs/
+runs/
+wandb/
+mlruns/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+*.cache
